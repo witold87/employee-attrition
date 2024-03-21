@@ -1,0 +1,2 @@
+class NoConfigSectionPresentException(Exception):
+    pass
